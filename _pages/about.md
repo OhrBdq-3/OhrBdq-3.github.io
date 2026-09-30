@@ -17,7 +17,7 @@ permalink: /
 </section>
 
 <figure class="campus-banner">
-  <img src="https://communications.osu.edu/sites/default/files/styles/widescreen_large/public/media/image/2024/02/autumn_resized.jpg" alt="The Ohio State University campus in autumn">
+  <img src="{{ '/assets/img/oval.png' | relative_url }}" alt="Autumn campus landscape">
   <figcaption>The Ohio State University · Columbus, Ohio</figcaption>
 </figure>
 
