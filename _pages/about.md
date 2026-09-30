@@ -17,7 +17,18 @@ permalink: /
 </section>
 
 <section class="content-section" id="research" aria-labelledby="research-title">
-  <div class="section-label">Research Interests</div>
+  <div class="section-aside research-aside">
+    <div class="section-label">Research Interests</div>
+    <div class="research-map" aria-hidden="true">
+      <span class="map-node map-main">AI</span>
+      <span class="map-node map-llm">LLM</span>
+      <span class="map-node map-nlp">NLP</span>
+      <span class="map-node map-hci">HCI</span>
+      <svg viewBox="0 0 150 112" role="presentation">
+        <path d="M74 23 L38 64 M74 23 L76 82 M74 23 L116 64" />
+      </svg>
+    </div>
+  </div>
   <div class="section-content">
     <h2 id="research-title">Areas I am interested in</h2>
     <div class="research-list">
