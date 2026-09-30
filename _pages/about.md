@@ -1,20 +1,18 @@
 ---
-layout: about
-title: about
+layout: personal
+title: About
 permalink: /
-subtitle:
-
-profile:
-  align: right
-  image: rani.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>AI Engineer</p>
-    <p>Lego Mocer</p>
-
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
 ---
 
-I received my bachelor’s degree in Computer Science and Engineering from The Ohio State University  and master’s degree in Artificial Intelligence from Nanyang Technological Univerisity.
+<section class="hero" id="about" aria-labelledby="hero-title">
+<div class="hero-copy"><p class="eyebrow"><span class="status-dot"></span> ARTIFICIAL INTELLIGENCE · NLP · DATA</p><h1 id="hero-title">Xingyu Yan<span class="name-dot">.</span></h1><p class="hero-statement">Exploring language.<br>Making sense of data.</p><p class="hero-description">I hold an MSc in Artificial Intelligence from Nanyang Technological University. My interests span natural language processing, large-model platforms, and data modeling.</p><div class="hero-actions"><a class="button" href="#research">Explore my research ↘</a><a class="text-link" href="https://github.com/OhrBdq-3">Find me on GitHub ↗</a></div></div>
+<div class="hero-art" aria-hidden="true"><div class="art-topline"><span>CONNECTED IDEAS</span><span>01 / XY</span></div><svg viewBox="0 0 400 400" fill="none"><circle cx="200" cy="200" r="150" stroke="currentColor" stroke-opacity=".15"/><circle cx="200" cy="200" r="105" stroke="currentColor" stroke-opacity=".2"/><circle cx="200" cy="200" r="57" stroke="currentColor" stroke-opacity=".25"/><path d="M75 118 200 50 330 124 345 252 229 345 94 305 50 204 75 118 200 200 330 124 229 345 200 200 94 305 75 118M50 204 200 200 345 252M200 50 200 200" stroke="currentColor" stroke-opacity=".4"/><g fill="currentColor"><circle cx="75" cy="118" r="8"/><circle cx="200" cy="50" r="5"/><circle cx="330" cy="124" r="7"/><circle cx="345" cy="252" r="5"/><circle cx="229" cy="345" r="8"/><circle cx="94" cy="305" r="5"/><circle cx="50" cy="204" r="5"/></g><circle cx="200" cy="200" r="22" fill="currentColor"/><circle cx="200" cy="200" r="7" fill="#f4f3ec"/></svg><div class="art-bottomline"><span>LANGUAGE</span><span>MODELS</span><span>CONNECTIONS</span></div></div>
+</section>
+<section class="section-block" aria-labelledby="interests-title"><div class="section-heading"><p class="eyebrow">01 / FOCUS</p><h2 id="interests-title">What draws my curiosity</h2></div><div class="interest-grid">
+<article><span class="item-number">01</span><h3>Natural language processing</h3><p>Understanding sentiment and relationships in dialogue, with an interest in learning from limited data.</p><span class="small-label">Language & understanding</span></article>
+<article><span class="item-number">02</span><h3>Large-model platforms</h3><p>Exploring how model capabilities connect with systems and become useful in practical applications.</p><span class="small-label">Models & applications</span></article>
+<article><span class="item-number">03</span><h3>Data modeling</h3><p>Working with prediction, dataset construction, and evaluation to uncover useful patterns in data.</p><span class="small-label">Patterns & prediction</span></article>
+</div></section>
+<section class="section-block" id="research" aria-labelledby="research-title"><div class="section-heading"><p class="eyebrow">02 / RESEARCH</p><h2 id="research-title">Selected publication</h2></div><article class="publication"><div class="publication-meta"><span class="venue">ACL 2025</span><span>LONG PAPER</span><span>Co-author</span></div><div class="publication-body"><h3><a href="https://aclanthology.org/2025.acl-long.686/">Multi-level Association Refinement Network for Dialogue Aspect-based Sentiment Quadruple Analysis</a></h3><p class="authors">Zeliang Tong, Wei Wei, Xiaoye Qu, Rikui Huang, Zhixin Chen, <strong>Xingyu Yan</strong></p><p>A dialogue sentiment analysis framework that models associations across utterances and words, with data augmentation for low-resource settings.</p><div class="publication-links"><a class="text-link" href="https://aclanthology.org/2025.acl-long.686/">ACL Anthology ↗</a><a class="text-link" href="https://aclanthology.org/2025.acl-long.686.pdf">Read paper ↗</a></div></div></article></section>
+<section class="section-block education" id="education" aria-labelledby="education-title"><div class="section-heading"><p class="eyebrow">03 / BACKGROUND</p><h2 id="education-title">Education</h2></div><div class="education-row"><div class="degree-mark" aria-hidden="true">MSc</div><div><h3>Nanyang Technological University</h3><p>Master of Science in Artificial Intelligence</p></div><span class="education-location">Singapore</span></div></section>
+<section class="closing" aria-labelledby="closing-title"><div><p class="eyebrow">ELSEWHERE ON THE WEB</p><h2 id="closing-title">More on GitHub.</h2><p>Explore my repositories and what I’m working on.</p></div><a class="button" href="https://github.com/OhrBdq-3">Visit GitHub ↗</a></section>
