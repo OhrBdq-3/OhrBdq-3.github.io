@@ -4,11 +4,6 @@ title: About
 permalink: /
 ---
 
-<figure class="campus-banner">
-  <img src="https://communications.osu.edu/sites/default/files/styles/widescreen_large/public/media/image/2024/02/autumn_resized.jpg" alt="The Ohio State University campus in autumn">
-  <figcaption>The Ohio State University · Columbus, Ohio</figcaption>
-</figure>
-
 <section class="intro" id="about" aria-labelledby="intro-title">
   <p class="kicker">AI ENGINEER · COMPUTER SCIENCE</p>
   <h1 id="intro-title">Xingyu Yan<span class="name-dot">.</span></h1>
@@ -20,6 +15,12 @@ permalink: /
     <a href="#education">Education ↓</a>
   </div>
 </section>
+
+<figure class="campus-banner">
+  <img src="https://communications.osu.edu/sites/default/files/styles/widescreen_large/public/media/image/2024/02/autumn_resized.jpg" alt="The Ohio State University campus in autumn">
+  <figcaption>The Ohio State University · Columbus, Ohio</figcaption>
+</figure>
+
 
 <section class="content-section" id="research" aria-labelledby="research-title">
   <div class="section-aside research-aside">
