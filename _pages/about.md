@@ -4,14 +4,68 @@ title: About
 permalink: /
 ---
 
-<section class="hero" id="about" aria-labelledby="hero-title">
-<div class="hero-copy"><p class="eyebrow"><span class="status-dot"></span> ARTIFICIAL INTELLIGENCE · LLM SYSTEMS · HUMAN-CENTERED AI</p><h1 id="hero-title">Xingyu Yan<span class="name-dot">.</span></h1><p class="hero-statement">Building intelligent systems.<br>Understanding how people interact with them.</p><p class="hero-description">I hold an MSc in Artificial Intelligence from Nanyang Technological University and a bachelor’s degree in Computer Science and Engineering from The Ohio State University. My work spans large language models, AI platforms, natural language processing, and applied machine learning, with a growing interest in human-centered AI and human–AI interaction.</p><div class="hero-actions"><a class="button" href="#education">Explore my background ↘</a><a class="text-link" href="https://github.com/OhrBdq-3">Find me on GitHub ↗</a></div></div>
-<div class="hero-art" aria-hidden="true"><div class="art-topline"><span>CONNECTED IDEAS</span><span>01 / XY</span></div><svg viewBox="0 0 400 400" fill="none"><circle cx="200" cy="200" r="150" stroke="currentColor" stroke-opacity=".15"/><circle cx="200" cy="200" r="105" stroke="currentColor" stroke-opacity=".2"/><circle cx="200" cy="200" r="57" stroke="currentColor" stroke-opacity=".25"/><path d="M75 118 200 50 330 124 345 252 229 345 94 305 50 204 75 118 200 200 330 124 229 345 200 200 94 305 75 118M50 204 200 200 345 252M200 50 200 200" stroke="currentColor" stroke-opacity=".4"/><g fill="currentColor"><circle cx="75" cy="118" r="8"/><circle cx="200" cy="50" r="5"/><circle cx="330" cy="124" r="7"/><circle cx="345" cy="252" r="5"/><circle cx="229" cy="345" r="8"/><circle cx="94" cy="305" r="5"/><circle cx="50" cy="204" r="5"/></g><circle cx="200" cy="200" r="22" fill="currentColor"/><circle cx="200" cy="200" r="7" fill="#f4f3ec"/></svg><div class="art-bottomline"><span>LANGUAGE</span><span>MODELS</span><span>CONNECTIONS</span></div></div>
+<section class="intro" id="about" aria-labelledby="intro-title">
+  <p class="kicker">AI ENGINEER · COMPUTER SCIENCE</p>
+  <h1 id="intro-title">Xingyu Yan<span class="name-dot">.</span></h1>
+  <p class="role">Large Language Models · Natural Language Processing · Human-Centered AI</p>
+  <p class="intro-text">I am an AI engineer with an MSc in Artificial Intelligence from Nanyang Technological University and a bachelor’s degree in Computer Science and Engineering from The Ohio State University. My work focuses on building and operating practical AI systems, while my broader interests include natural language processing, large language models, and human–AI interaction.</p>
+  <div class="intro-links">
+    <a href="https://github.com/OhrBdq-3">GitHub ↗</a>
+    <a href="#research">Research interests ↓</a>
+    <a href="#education">Education ↓</a>
+  </div>
 </section>
-<section class="section-block" id="interests" aria-labelledby="interests-title"><div class="section-heading"><p class="eyebrow">01 / FOCUS</p><h2 id="interests-title">What draws my curiosity</h2></div><div class="interest-grid">
-<article><span class="item-number">01</span><h3>Natural language processing</h3><p>Understanding language, dialogue, sentiment, and semantic relationships, with particular interest in how language models learn from limited or noisy data.</p><span class="small-label">Language & understanding</span></article>
-<article><span class="item-number">02</span><h3>Large language models & AI systems</h3><p>Building and operating practical AI systems across model deployment, inference, retrieval, evaluation, and large-model platforms.</p><span class="small-label">Models & systems</span></article>
-<article><span class="item-number">03</span><h3>Human-centered AI</h3><p>Exploring how people understand, trust, and interact with intelligent systems, and how AI can better support human decision-making and well-being.</p><span class="small-label">People & AI</span></article>
-</div></section>
-<section class="section-block education" id="education" aria-labelledby="education-title"><div class="section-heading"><p class="eyebrow">02 / BACKGROUND</p><h2 id="education-title">Education</h2></div><div class="education-row"><div class="degree-mark" aria-hidden="true">MSc</div><div><h3>Nanyang Technological University</h3><p>Master of Science in Artificial Intelligence</p></div><span class="education-location">Singapore</span></div><div class="education-row"><div class="degree-mark" aria-hidden="true">UG</div><div><h3>The Ohio State University</h3><p>Bachelor’s degree in Computer Science and Engineering</p></div><span class="education-location">United States</span></div></section>
-<section class="closing" aria-labelledby="closing-title"><div><p class="eyebrow">ELSEWHERE ON THE WEB</p><h2 id="closing-title">More on GitHub.</h2><p>Explore my repositories and what I’m working on.</p></div><a class="button" href="https://github.com/OhrBdq-3">Visit GitHub ↗</a></section>
+
+<section class="content-section" id="research" aria-labelledby="research-title">
+  <div class="section-label">Research Interests</div>
+  <div class="section-content">
+    <h2 id="research-title">Areas I am interested in</h2>
+    <div class="research-list">
+      <article>
+        <h3>Large Language Models & AI Systems</h3>
+        <p>Model adaptation, evaluation, inference, retrieval, and the engineering of practical large-model systems.</p>
+      </article>
+      <article>
+        <h3>Natural Language Processing</h3>
+        <p>Language understanding, dialogue, sentiment, and semantic relationships, especially under limited or noisy data.</p>
+      </article>
+      <article>
+        <h3>Human-Centered AI</h3>
+        <p>How people understand, trust, and interact with intelligent systems, and how AI can better support human decision-making and well-being.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="content-section" id="education" aria-labelledby="education-title">
+  <div class="section-label">Education</div>
+  <div class="section-content">
+    <h2 id="education-title">Academic background</h2>
+    <div class="timeline">
+      <article class="timeline-row">
+        <div class="timeline-meta">MSc</div>
+        <div>
+          <h3>Nanyang Technological University</h3>
+          <p>Master of Science in Artificial Intelligence</p>
+          <span>Singapore</span>
+        </div>
+      </article>
+      <article class="timeline-row">
+        <div class="timeline-meta">BS</div>
+        <div>
+          <h3>The Ohio State University</h3>
+          <p>Bachelor’s degree in Computer Science and Engineering</p>
+          <span>United States</span>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="contact-strip">
+  <div>
+    <h2>Selected work is on GitHub.</h2>
+    <p>Projects, experiments, and code from my work in AI and software engineering.</p>
+  </div>
+  <a class="plain-button" href="https://github.com/OhrBdq-3">github.com/OhrBdq-3 ↗</a>
+</section>
